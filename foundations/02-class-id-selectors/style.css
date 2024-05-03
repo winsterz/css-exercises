@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255,182,193);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.medium {
+    font-size: 24px;
+}
+
+.medium#preview {
+    background-color: hsl(113, 59%, 72%);
+    font-weight: bold;
+}
